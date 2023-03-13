@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Mangesh Chate</h1>
 <h3 align="center">As a full-stack web developer, I am skilled in both front-end and back-end web development technologies.</h3>
 
