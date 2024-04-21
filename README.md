@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mangesh Chate</h1>
 <h3 align="center">As a full-stack web developer, I am skilled in both front-end and back-end web development technologies.</h3>
 
-- 🔭 I’m currently working on [InoteBook Project](https://github.com/MangeshChate/INOTEBOOK.git)
+
 
 - 🌱 I’m currently learning **WEB 3**
 
