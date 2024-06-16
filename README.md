@@ -5,7 +5,7 @@
 
 
 - 🌱 I’m currently learning **WEB 3**
--  Visit My Portfolio [(https://mangeshchatecv.netlify.app/)](click here)
+-  Visit My Portfolio https://mangeshchate.netlify.app/
 - 💬 Ask me about **MERN Stack , bootstrap 5 , UI-UX ,Python & Data-Science**
 
 - 📫 How to reach me **mbchate08@gmail.com**
