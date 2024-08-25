@@ -14,13 +14,10 @@
   <a href="https://drive.google.com/file/d/1G5JtcFbIJeUfY3IE73J4Pzkmiu7wRAPF/view" target="_blank"><img src="https://img.shields.io/badge/Resume-0077B5?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"></a>
 </div>
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
 
 <h3 align="left">🚀 About Me</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 I am a full-stack developer passionate about building modern web applications. My current focus is on **Web 3.0** and **Blockchain** technologies, where I am exploring decentralized applications (dApps), smart contracts, and distributed ledger technology. With a solid background in the **MERN Stack**, I'm excited about the potential of blockchain to reshape the internet and industries.
 
