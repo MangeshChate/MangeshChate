@@ -8,9 +8,7 @@
 
 <h3 align="center">Full-Stack Developer | Web 3.0 & Blockchain Enthusiast</h3>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="300" alt="Blockchain Animation">
-</div>
+
 
 <div align="center">
   <a href="https://mangeshchate.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Website"></a>
