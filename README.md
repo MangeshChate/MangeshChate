@@ -1,26 +1,71 @@
+<h1 align="center">Hello, I'm Mangesh Chate 👋</h1>
+<h3 align="center">Full-Stack Developer | Enthusiast in Web 3.0 & Blockchain Technology</h3>
 
-<h1 align="center">Hi 👋, I'm Mangesh Chate</h1>
-<h3 align="center">As a full-stack web developer, I am skilled in both front-end and back-end web development technologies.</h3>
-
-
-
-- 🌱 I’m currently learning **WEB 3**
--  Visit My Portfolio https://mangeshchate.netlify.app/
-- 💬 Ask me about **MERN Stack , bootstrap 5 , UI-UX ,Python & Data-Science**
-
-- 📫 How to reach me **mbchate08@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1s7Aw-5oGLPaN_2rfPuEd04CnM9fXmRN8/view?usp=sharing](https://drive.google.com/file/d/1s7Aw-5oGLPaN_2rfPuEd04CnM9fXmRN8/view?usp=sharing)
-
-- ⚡ Fun fact **I Am NightOwl .**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/manny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="manny" height="30" width="40" /></a>
-<a href="https://discord.gg/manny_c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="manny_c" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://mangeshchate.netlify.app/" target="_blank">🌐 Portfolio</a> |
+  <a href="mailto:mbchate08@gmail.com">📧 Email</a> |
+  <a href="https://drive.google.com/file/d/1s7Aw-5oGLPaN_2rfPuEd04CnM9fXmRN8/view?usp=sharing" target="_blank">📄 Resume</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mangeshchate&show_icons=true&locale=en&layout=compact" alt="mangeshchate" /></p>
+### 🚀 About Me
+I am a full-stack developer passionate about building modern web applications. My current focus is on **Web 3.0** and **Blockchain** technologies, where I am exploring decentralized applications (dApps), smart contracts, and distributed ledger technology. With a solid background in the **MERN Stack**, I'm excited about the potential of blockchain to reshape the internet and industries.
+
+- 🌱 I’m currently deepening my knowledge in **Blockchain Development & Web 3.0**
+- 💬 Ask me about **MERN Stack** and **Blockchain** projects
+- ⚡ Fun fact: **I am a Night Owl 🦉**
+
+---
+
+### 🛠️ Skills
+
+#### **Languages**
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" height="40"/> 
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" height="40"/> 
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" height="40"/> 
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" height="40"/> 
+</p>
+
+#### **Front-End**
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" height="40"/> 
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" height="40"/> 
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" height="40"/> 
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" height="40"/> 
+</p>
+
+#### **Back-End & Blockchain**
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" height="40"/> 
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" height="40"/> 
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" height="40"/> 
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" height="40"/> 
+  <img src="https://img.icons8.com/color/48/000000/ethereum.png" alt="Ethereum" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/000000/solidity.png" alt="Solidity" height="40"/>
+</p>
+
+#### **Tools & Platforms**
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" height="40"/> 
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" height="40"/> 
+  <img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman" height="40"/> 
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mangeshchate&show_icons=true&locale=en&layout=compact" alt="mangeshchate" />
+</p>
+
+---
+
+### 📞 Connect with Me
+
+<p align="left">
+  <a href="https://www.youtube.com/c/manny" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" height="40"/></a>
+  <a href="https://discord.gg/manny_c" target="_blank"><img src="https://img.icons8.com/color/48/000000/discord-new-logo.png" alt="Discord" height="40"/></a>
+</p>
