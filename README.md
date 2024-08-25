@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="https://your-image-url-here.jpg" alt="Mangesh Chate" width="200" style="border-radius: 50%;">
+  <img src="https://your-profile-image-url-here.jpg" alt="Mangesh Chate" width="200" style="border-radius: 50%;">
 </div>
 
-<h1 align="center">Mangesh Chate</h1>
-<h3 align="center">Full-Stack Developer | Web 3.0 & Blockchain Enthusiast</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Mangesh+Chate;Full-Stack+Developer;Blockchain+Enthusiast" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <a href="https://mangeshchate.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
@@ -12,7 +13,9 @@
   <a href="https://drive.google.com/file/d/1s7Aw-5oGLPaN_2rfPuEd04CnM9fXmRN8/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume-000000?style=for-the-badge&logo=read-the-docs&logoColor=white"/></a>
 </p>
 
-<hr>
+<div align="center">
+  <img src="https://github.com/mangeshchate/mangeshchate/raw/main/assets/blockchain-animation.gif" alt="Blockchain Animation" width="100%">
+</div>
 
 ## 👨‍💻 About Me
 
@@ -23,8 +26,6 @@ I'm a passionate full-stack developer with a keen interest in cutting-edge web t
 - 🌟 Committed to writing clean, efficient, and maintainable code
 - 🤝 Open for collaborations on innovative projects
 - 🌙 Fun fact: I'm a Night Owl 🦉, finding my creative peak during the quiet hours
-
-<hr>
 
 ## 🛠️ Tech Stack
 
@@ -73,18 +74,26 @@ I'm a passionate full-stack developer with a keen interest in cutting-edge web t
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 </details>
 
-<hr>
+## 🌟 Featured Projects
 
-## 📊 GitHub Analytics
+1. **Decentralized Exchange (DEX)**
+   - A blockchain-based exchange platform for trading cryptocurrencies
+   - Technologies: Solidity, React, Web3.js, Hardhat
+   - [View Project](https://your-project-link.com)
 
-<p align="center">
-<a href="https://github.com/mangeshchate">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mangeshchate&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mangeshchate&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+2. **NFT Marketplace**
+   - A platform for creating, buying, and selling unique digital assets
+   - Technologies: Next.js, IPFS, Ethereum, Thirdweb
+   - [View Project](https://your-project-link.com)
 
-<hr>
+3. **Smart Contract Automation Tool**
+   - A tool to streamline smart contract deployment and interaction
+   - Technologies: Node.js, Ethers.js, Express.js
+   - [View Project](https://your-project-link.com)
+
+## 📈 GitHub Contribution Graph
+
+[![Mangesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mangeshchate&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mangeshchate&label=Profile%20views&color=0e75b6&style=flat" alt="mangeshchate" />
