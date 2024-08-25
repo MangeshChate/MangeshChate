@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Mangesh+Chate!;Welcome+to+my+GitHub+profile!&center=true&size=30" width="100%">
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=900&height=100&lines=Welcome+to+Mangesh+Chate's+Profile;Full-Stack+Developer;Blockchain+Enthusiast" alt="Typing SVG" />
+</div>
 
 <h3 align="center">Full-Stack Developer | Enthusiast in Web 3.0 & Blockchain Technology</h3>
 
@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn3d.iconscout.com/3d/premium/thumb/web-developer-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--programmer-development-freelance-kit-pack-tools-equipment-illustrations-3738664.png?f=webp">
 
 I am a full-stack developer passionate about building modern web applications. My current focus is on **Web 3.0** and **Blockchain** technologies, where I am exploring decentralized applications (dApps), smart contracts, and distributed ledger technology. With a solid background in the **MERN Stack**, I'm excited about the potential of blockchain to reshape the internet and industries.
 
