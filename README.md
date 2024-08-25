@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Mangesh+Chate!;Welcome+to+my+GitHub+profile!&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Mangesh+Chate!;Welcome+to+my+GitHub+profile!&center=true&size=30" width="100%">
 </h1>
 
 <h3 align="center">Full-Stack Developer | Enthusiast in Web 3.0 & Blockchain Technology</h3>
