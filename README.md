@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdni.iconscout.com/illustration/premium/thumb/developer-doing-coding-illustration-download-in-svg-png-gif-file-formats--development-pack-design-illustrations-11934897.png?f=webp">
+<img align="right" alt="Coding" width="400" src="./pixal-self.png">
 
 I am a full-stack developer passionate about building modern web applications. My current focus is on **Web 3.0** and **Blockchain** technologies, where I am exploring decentralized applications (dApps), smart contracts, and distributed ledger technology. With a solid background in the **MERN Stack**, I'm excited about the potential of blockchain to reshape the internet and industries.
 
